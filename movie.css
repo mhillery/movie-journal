@@ -1,0 +1,50 @@
+body {
+  background: #262626;
+  font-family: helvetica, ariel, sans-serif; }
+
+header {
+  margin: 20px 0 0 5%; }
+  header h1 {
+    color: #696969;
+    margin: 10px 10%; }
+
+p {
+  margin: 20px 5%; }
+
+p {
+  margin: 20px 5%; }
+
+a {
+  color: #696969; }
+
+#test-div {
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  padding: 1%;
+  background-color: #F2EFEB;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#F2EFEB) to #8e8b87);
+  background-image: -webkit-linear-gradient(top, #F2EFEB, #8e8b87);
+  background-image: -moz-linear-gradient(top, #F2EFEB, #8e8b87);
+  background-image: -ms-linear-gradient(top, #F2EFEB, #8e8b87);
+  background-image: -o-linear-gradient(top, #F2EFEB, #8e8b87); }
+  #test-div .intro, #test-div .feature {
+    background: #333;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 20px;
+    border-radius: 20px; }
+  #test-div .par1 {
+    color: #696969; }
+    #test-div .par1 a {
+      font-size: 20px;
+      color: #fff;
+      background: #F2EFEB;
+      -webkit-border-radius: 12px;
+      -moz-border-radius: 10px;
+      border-radius: 10px; }
+    #test-div .par1 a:hover {
+      background: #8e8b87; }
+  #test-div .feature {
+    border: 1px solid yellow; }
+
+/*# sourceMappingURL=movie.css.map */
